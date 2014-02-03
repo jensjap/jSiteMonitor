@@ -1,490 +1,424 @@
-2014-01-31 13:53:12,503 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 14:52:16,981 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 14:52:16,981 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 14:52:16,982 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 14:52:16,982 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 14:52:25,530 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 14:52:25,530 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 14:52:25,530 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 14:52:25,530 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 14:53:01,869 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 14:53:01,869 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 14:53:01,870 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 14:53:01,870 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 14:57:48,733 - root - INFO - Number of site monitors to build: 4
-2014-01-31 14:57:48,733 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 14:57:48,733 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 14:57:48,733 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 14:57:48,733 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 14:58:43,185 - root - INFO - Number of site monitors to build: 4
-2014-01-31 14:58:43,185 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 14:58:43,185 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 14:58:43,185 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 14:58:43,185 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 14:58:49,853 - root - INFO - Number of site monitors to build: 4
-2014-01-31 14:58:49,853 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 14:58:49,853 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 14:58:49,853 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 14:58:49,853 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 14:59:03,940 - root - INFO - Number of site monitors to build: 4
-2014-01-31 14:59:03,941 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 14:59:03,941 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 14:59:03,941 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 14:59:03,941 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:08:13,896 - root - INFO - Main program started
-2014-01-31 15:08:13,896 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:08:13,896 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:08:13,896 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:08:13,896 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:08:13,896 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:09:07,683 - __main__ - INFO - Main program started
-2014-01-31 15:09:07,684 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:09:07,684 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:09:07,684 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:09:07,684 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:09:07,684 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:09:36,179 - root - INFO - Main program started
-2014-01-31 15:09:36,179 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:09:36,179 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:09:36,180 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:09:36,180 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:09:36,180 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:10:12,467 - root - INFO - Main program started
-2014-01-31 15:10:12,468 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:10:12,468 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:10:12,468 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:10:12,468 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:10:12,468 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:17:21,827 - root - INFO - Main program started
-2014-01-31 15:17:21,827 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:17:21,827 - root.%(hostname)s - DEBUG - Found hostname %(hostname)
-2014-01-31 15:17:21,828 - root.%(hostname)s - DEBUG - Alert for %(hostname)s need to be sent to %(lof_emails)s
-2014-01-31 15:17:21,828 - root.%(hostname)s - DEBUG - Found hostname %(hostname)
-2014-01-31 15:17:21,828 - root.%(hostname)s - DEBUG - Alert for %(hostname)s need to be sent to %(lof_emails)s
-2014-01-31 15:17:21,828 - root.%(hostname)s - DEBUG - Found hostname %(hostname)
-2014-01-31 15:17:21,828 - root.%(hostname)s - DEBUG - Alert for %(hostname)s need to be sent to %(lof_emails)s
-2014-01-31 15:17:21,828 - root.%(hostname)s - DEBUG - Found hostname %(hostname)
-2014-01-31 15:17:21,828 - root.%(hostname)s - DEBUG - Alert for %(hostname)s need to be sent to %(lof_emails)s
-2014-01-31 15:17:21,828 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:17:21,828 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:17:21,828 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:17:21,828 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:18:59,504 - root - INFO - Main program started
-2014-01-31 15:18:59,505 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:18:59,945 - root - INFO - Main program started
-2014-01-31 15:18:59,945 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:19:03,359 - root - INFO - Main program started
-2014-01-31 15:19:03,359 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:19:39,551 - root - INFO - Main program started
-2014-01-31 15:19:39,551 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:19:39,551 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 15:19:39,552 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 15:19:39,552 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 15:19:39,552 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 15:19:39,553 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:19:39,553 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:19:39,553 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:19:39,553 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:20:07,086 - root - INFO - Main program started
-2014-01-31 15:20:07,087 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:20:07,087 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 15:20:07,087 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:20:07,087 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 15:20:07,087 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:20:07,087 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 15:20:07,087 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:20:07,087 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 15:20:07,087 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:20:07,087 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:20:07,087 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:20:07,088 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:20:07,088 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:24:01,530 - root - INFO - Main program started
-2014-01-31 15:24:01,530 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:24:01,530 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 15:24:01,530 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:24:01,530 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 15:24:01,530 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:24:01,531 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 15:24:01,531 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:24:01,531 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 15:24:01,531 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:24:01,531 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:24:01,531 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:24:01,531 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:24:01,531 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:24:15,679 - root - INFO - Main program started
-2014-01-31 15:24:15,679 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:24:15,679 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:24:15,680 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:24:15,680 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:24:15,680 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:24:52,970 - root - INFO - Main program started
-2014-01-31 15:24:52,971 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:24:52,971 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 15:24:52,971 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:24:52,971 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 15:24:52,971 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:24:52,971 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 15:24:52,971 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:24:52,971 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 15:24:52,971 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:24:52,971 - abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:24:52,971 - sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:24:52,971 - srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:24:52,973 - srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 15:26:59,728 - root - INFO - Main program started
-2014-01-31 15:26:59,728 - root - INFO - Number of site monitors to build: 4
-2014-01-31 15:26:59,728 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 15:26:59,728 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:26:59,729 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 15:26:59,729 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:26:59,729 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 15:26:59,729 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:26:59,729 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 15:26:59,729 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 15:26:59,729 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 15:26:59,729 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 15:26:59,729 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 15:26:59,729 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 16:11:12,395 - root - INFO - Main program started
-2014-01-31 16:11:12,395 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:11:12,395 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:11:12,395 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
-2014-01-31 16:11:12,395 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:11:12,395 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:11:12,395 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
-2014-01-31 16:11:12,395 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:11:12,395 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:11:12,395 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
-2014-01-31 16:11:12,395 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:11:12,396 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:11:12,396 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
-2014-01-31 16:11:12,396 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:12:05,573 - root - INFO - Main program started
-2014-01-31 16:12:05,573 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:12:05,573 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:12:05,573 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
-2014-01-31 16:12:05,573 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:12:05,573 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:12:05,573 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
-2014-01-31 16:12:05,574 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:12:05,574 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:12:05,574 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
-2014-01-31 16:12:05,574 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:12:05,574 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:12:05,574 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
-2014-01-31 16:12:05,574 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:12:05,574 - root.abstrackr.cebm.brown.edu - INFO - http://www.google.com did not return any header status.
-2014-01-31 16:12:05,574 - root.abstrackr.cebm.brown.edu - INFO - Can't even hit www.google.com. Better luck next time
-2014-01-31 16:12:05,574 - root.sunfire34.eecs.tufts.edu - INFO - http://www.google.com did not return any header status.
-2014-01-31 16:12:05,574 - root.sunfire34.eecs.tufts.edu - INFO - Can't even hit www.google.com. Better luck next time
-2014-01-31 16:12:05,574 - root.srdr.ahrq.gov - INFO - http://www.google.com did not return any header status.
-2014-01-31 16:12:05,574 - root.srdr.ahrq.gov - INFO - Can't even hit www.google.com. Better luck next time
-2014-01-31 16:12:05,574 - root.srdr.training.ahrq.gov - INFO - http://www.google.com did not return any header status.
-2014-01-31 16:12:05,574 - root.srdr.training.ahrq.gov - INFO - Can't even hit www.google.com. Better luck next time
-2014-01-31 16:12:52,968 - root - INFO - Main program started
-2014-01-31 16:12:52,968 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:12:52,968 - root.abstrackr.cebm.brown.edu - INFO - http://www.google.com did not return any header status.
-2014-01-31 16:12:52,968 - root.abstrackr.cebm.brown.edu - INFO - Can't even hit www.google.com. Better luck next time
-2014-01-31 16:12:52,968 - root.sunfire34.eecs.tufts.edu - INFO - http://www.google.com did not return any header status.
-2014-01-31 16:12:52,968 - root.sunfire34.eecs.tufts.edu - INFO - Can't even hit www.google.com. Better luck next time
-2014-01-31 16:12:52,968 - root.srdr.ahrq.gov - INFO - http://www.google.com did not return any header status.
-2014-01-31 16:12:52,969 - root.srdr.ahrq.gov - INFO - Can't even hit www.google.com. Better luck next time
-2014-01-31 16:12:52,969 - root.srdr.training.ahrq.gov - INFO - http://www.google.com did not return any header status.
-2014-01-31 16:12:52,969 - root.srdr.training.ahrq.gov - INFO - Can't even hit www.google.com. Better luck next time
-2014-01-31 16:14:54,356 - root - INFO - Main program started
-2014-01-31 16:14:54,356 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:15:08,071 - root - INFO - Main program started
-2014-01-31 16:15:08,071 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:15:13,244 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 16:15:13,377 - root.abstrackr.cebm.brown.edu - INFO - abstrackr.cebm.brown.edu did not return any header status.
-2014-01-31 16:15:13,442 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 16:15:13,442 - root.sunfire34.eecs.tufts.edu - INFO - sunfire34.eecs.tufts.edu did not return any header status.
-2014-01-31 16:15:13,553 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 16:15:13,553 - root.srdr.ahrq.gov - INFO - srdr.ahrq.gov did not return any header status.
-2014-01-31 16:15:13,621 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 16:15:13,621 - root.srdr.training.ahrq.gov - INFO - srdr.training.ahrq.gov did not return any header status.
-2014-01-31 16:15:32,131 - root - INFO - Main program started
-2014-01-31 16:15:32,131 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:15:32,231 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 16:15:32,235 - root.abstrackr.cebm.brown.edu - INFO - abstrackr.cebm.brown.edu did not return any header status.
-2014-01-31 16:15:32,235 - root.abstrackr.cebm.brown.edu - INFO - abstrackr.cebm.brown.edu is down. Site status is 0
-2014-01-31 16:15:32,301 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
-2014-01-31 16:15:32,301 - root.sunfire34.eecs.tufts.edu - INFO - sunfire34.eecs.tufts.edu did not return any header status.
-2014-01-31 16:15:32,301 - root.sunfire34.eecs.tufts.edu - INFO - sunfire34.eecs.tufts.edu is down. Site status is 0
-2014-01-31 16:15:32,448 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
-2014-01-31 16:15:32,448 - root.srdr.ahrq.gov - INFO - srdr.ahrq.gov did not return any header status.
-2014-01-31 16:15:32,448 - root.srdr.ahrq.gov - INFO - srdr.ahrq.gov is down. Site status is 0
-2014-01-31 16:15:32,511 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
-2014-01-31 16:15:32,511 - root.srdr.training.ahrq.gov - INFO - srdr.training.ahrq.gov did not return any header status.
-2014-01-31 16:15:32,511 - root.srdr.training.ahrq.gov - INFO - srdr.training.ahrq.gov is down. Site status is 0
-2014-01-31 16:18:13,760 - root - INFO - Main program started
-2014-01-31 16:18:13,760 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:18:18,926 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
-2014-01-31 16:19:22,975 - root - INFO - Main program started
-2014-01-31 16:19:22,975 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:19:23,104 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:19:23,259 - root.http://sunfire34.eecs.tufts.edu - INFO - Checking status of http://sunfire34.eecs.tufts.edu
-2014-01-31 16:19:23,448 - root.http://srdr.ahrq.gov - INFO - Checking status of http://srdr.ahrq.gov
-2014-01-31 16:19:28,534 - root.http://srdr.training.ahrq.gov - INFO - Checking status of http://srdr.training.ahrq.gov
-2014-01-31 16:29:42,805 - root - INFO - Main program started
-2014-01-31 16:29:42,805 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:29:47,974 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:30:25,806 - root - INFO - Main program started
-2014-01-31 16:30:25,806 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:30:25,932 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:30:26,072 - root.http://sunfire34.eecs.tufts.edu - INFO - Checking status of http://sunfire34.eecs.tufts.edu
-2014-01-31 16:30:26,294 - root.http://srdr.ahrq.gov - INFO - Checking status of http://srdr.ahrq.gov
-2014-01-31 16:30:32,296 - root.http://srdr.training.ahrq.gov - INFO - Checking status of http://srdr.training.ahrq.gov
-2014-01-31 16:31:27,481 - root - INFO - Main program started
-2014-01-31 16:31:27,481 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:31:27,648 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:33:15,919 - root - INFO - Main program started
-2014-01-31 16:33:15,920 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:33:21,165 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:34:18,381 - root - INFO - Main program started
-2014-01-31 16:34:18,381 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:34:18,505 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:34:37,986 - root - INFO - Main program started
-2014-01-31 16:34:37,986 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:34:38,151 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:34:38,320 - root.http://sunfire34.eecs.tufts.edu - INFO - Checking status of http://sunfire34.eecs.tufts.edu
-2014-01-31 16:34:38,501 - root.http://srdr.ahrq.gov - INFO - Checking status of http://srdr.ahrq.gov
-2014-01-31 16:34:44,629 - root.http://srdr.training.ahrq.gov - INFO - Checking status of http://srdr.training.ahrq.gov
-2014-01-31 16:35:29,877 - root - INFO - Main program started
-2014-01-31 16:35:29,877 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:35:29,877 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:35:29,877 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was down last time it was checked
-2014-01-31 16:35:29,877 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:35:29,877 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:35:29,877 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was down last time it was checked
-2014-01-31 16:35:29,878 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:35:29,878 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:35:29,878 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was down last time it was checked
-2014-01-31 16:35:29,878 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:35:29,878 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:35:29,878 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was down last time it was checked
-2014-01-31 16:35:29,878 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:35:35,008 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:35:35,029 - root.http://abstrackr.cebm.brown.edu - INFO - http://abstrackr.cebm.brown.edu is up again. Site status is 200
-2014-01-31 16:35:35,188 - root.http://sunfire34.eecs.tufts.edu - INFO - Checking status of http://sunfire34.eecs.tufts.edu
-2014-01-31 16:35:35,256 - root.http://sunfire34.eecs.tufts.edu - INFO - http://sunfire34.eecs.tufts.edu is up again. Site status is 200
-2014-01-31 16:35:35,511 - root.http://srdr.ahrq.gov - INFO - Checking status of http://srdr.ahrq.gov
-2014-01-31 16:35:41,431 - root.http://srdr.ahrq.gov - INFO - http://srdr.ahrq.gov is up again. Site status is 200
-2014-01-31 16:35:41,554 - root.http://srdr.training.ahrq.gov - INFO - Checking status of http://srdr.training.ahrq.gov
-2014-01-31 16:35:44,145 - root.http://srdr.training.ahrq.gov - INFO - http://srdr.training.ahrq.gov is up again. Site status is 200
-2014-01-31 16:39:56,431 - root - INFO - Main program started
-2014-01-31 16:39:56,431 - root - INFO - Number of site monitors to build: 4
-2014-01-31 16:39:56,432 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:39:56,432 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
-2014-01-31 16:39:56,432 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:39:56,432 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:39:56,432 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
-2014-01-31 16:39:56,432 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:39:56,432 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:39:56,432 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
-2014-01-31 16:39:56,432 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:39:56,432 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:39:56,432 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
-2014-01-31 16:39:56,432 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:39:56,698 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:39:56,881 - root.http://sunfire34.eecs.tufts.edu - INFO - Checking status of http://sunfire34.eecs.tufts.edu
-2014-01-31 16:39:57,096 - root.http://srdr.ahrq.gov - INFO - Checking status of http://srdr.ahrq.gov
-2014-01-31 16:40:02,475 - root.http://srdr.training.ahrq.gov - INFO - Checking status of http://srdr.training.ahrq.gov
-2014-01-31 16:41:29,031 - root - INFO - Main program started
-2014-01-31 16:41:32,765 - root - INFO - Main program started
-2014-01-31 16:41:32,765 - root - INFO - Number of site monitors to build: 5
-2014-01-31 16:41:32,765 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:41:32,765 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
-2014-01-31 16:41:32,765 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:41:32,765 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:41:32,765 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
-2014-01-31 16:41:32,765 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:41:32,766 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:41:32,766 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
-2014-01-31 16:41:32,766 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:41:32,766 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:41:32,766 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
-2014-01-31 16:41:32,766 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:41:32,766 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 16:41:36,980 - root - INFO - Main program started
-2014-01-31 16:41:36,980 - root - INFO - Number of site monitors to build: 5
-2014-01-31 16:41:36,980 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:41:36,980 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
-2014-01-31 16:41:36,980 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:41:36,980 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:41:36,980 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
-2014-01-31 16:41:36,981 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:41:36,981 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:41:36,981 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
-2014-01-31 16:41:36,981 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:41:36,981 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:41:36,981 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
-2014-01-31 16:41:36,981 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:41:36,981 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 16:47:41,597 - root - INFO - Main program started
-2014-01-31 16:47:41,597 - root - INFO - Number of site monitors to build: 5
-2014-01-31 16:47:41,597 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:47:41,598 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
-2014-01-31 16:47:41,598 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:47:41,598 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:47:41,598 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
-2014-01-31 16:47:41,598 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:47:41,598 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:47:41,598 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
-2014-01-31 16:47:41,598 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:47:41,598 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:47:41,599 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
-2014-01-31 16:47:41,599 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:47:41,599 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 16:47:56,815 - root - INFO - Main program started
-2014-01-31 16:47:56,815 - root - INFO - Number of site monitors to build: 5
-2014-01-31 16:47:56,815 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:47:56,815 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
-2014-01-31 16:47:56,816 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:47:56,816 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:47:56,816 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
-2014-01-31 16:47:56,816 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:47:56,816 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:47:56,816 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
-2014-01-31 16:47:56,816 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:47:56,816 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:47:56,816 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
-2014-01-31 16:47:56,816 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:47:56,816 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 16:49:10,951 - root - INFO - Main program started
-2014-01-31 16:49:10,951 - root - INFO - Number of site monitors to build: 5
-2014-01-31 16:49:10,951 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:49:10,951 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
-2014-01-31 16:49:10,951 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:49:10,951 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:49:10,951 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
-2014-01-31 16:49:10,951 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:49:10,952 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:49:10,952 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
-2014-01-31 16:49:10,952 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:49:10,952 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:49:10,952 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
-2014-01-31 16:49:10,952 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:49:10,952 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 16:49:23,503 - root - INFO - Main program started
-2014-01-31 16:49:23,504 - root - INFO - Number of site monitors to build: 5
-2014-01-31 16:49:23,504 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:49:23,504 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
-2014-01-31 16:49:23,504 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:49:23,504 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:49:23,504 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
-2014-01-31 16:49:23,504 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:49:23,505 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:49:23,505 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
-2014-01-31 16:49:23,505 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:49:23,505 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:49:23,505 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
-2014-01-31 16:49:23,505 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:49:23,505 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 16:49:23,506 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was up last time it was checked
-2014-01-31 16:50:29,065 - root - INFO - Main program started
-2014-01-31 16:50:29,066 - root - INFO - Number of site monitors to build: 5
-2014-01-31 16:50:29,066 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:50:29,066 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was None last time it was checked
-2014-01-31 16:50:29,066 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:50:29,066 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:50:29,066 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was None last time it was checked
-2014-01-31 16:50:29,066 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:50:29,066 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:50:29,066 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was None last time it was checked
-2014-01-31 16:50:29,066 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:50:29,066 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:50:29,066 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was None last time it was checked
-2014-01-31 16:50:29,066 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:50:29,067 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 16:50:29,067 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was None last time it was checked
-2014-01-31 16:51:50,461 - root - INFO - Main program started
-2014-01-31 16:51:50,461 - root - INFO - Number of site monitors to build: 5
-2014-01-31 16:51:50,461 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:51:50,461 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was None last time it was checked
-2014-01-31 16:51:50,461 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:51:50,461 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:51:50,462 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was None last time it was checked
-2014-01-31 16:51:50,462 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:51:50,462 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:51:50,462 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was None last time it was checked
-2014-01-31 16:51:50,462 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:51:50,462 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:51:50,462 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was None last time it was checked
-2014-01-31 16:51:50,462 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:51:50,462 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 16:51:50,463 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was  last time it was checked
-2014-01-31 16:51:50,463 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:51:55,614 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:51:55,765 - root.http://sunfire34.eecs.tufts.edu - INFO - Checking status of http://sunfire34.eecs.tufts.edu
-2014-01-31 16:51:55,983 - root.http://srdr.ahrq.gov - INFO - Checking status of http://srdr.ahrq.gov
-2014-01-31 16:52:01,315 - root.http://srdr.training.ahrq.gov - INFO - Checking status of http://srdr.training.ahrq.gov
-2014-01-31 16:52:04,056 - root.http://www.infalliblekitty.com - INFO - Checking status of http://www.infalliblekitty.com
-2014-01-31 16:52:39,748 - root - INFO - Main program started
-2014-01-31 16:52:39,748 - root - INFO - Number of site monitors to build: 5
-2014-01-31 16:52:39,748 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:52:39,748 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was None last time it was checked
-2014-01-31 16:52:39,748 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:52:39,748 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:52:39,748 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was None last time it was checked
-2014-01-31 16:52:39,748 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:52:39,749 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:52:39,749 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was None last time it was checked
-2014-01-31 16:52:39,749 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:52:39,749 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:52:39,749 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was None last time it was checked
-2014-01-31 16:52:39,749 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:52:39,749 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 16:52:39,750 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was None last time it was checked
-2014-01-31 16:52:39,750 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:52:39,943 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:52:40,120 - root.http://sunfire34.eecs.tufts.edu - INFO - Checking status of http://sunfire34.eecs.tufts.edu
-2014-01-31 16:52:40,315 - root.http://srdr.ahrq.gov - INFO - Checking status of http://srdr.ahrq.gov
-2014-01-31 16:52:46,404 - root.http://srdr.training.ahrq.gov - INFO - Checking status of http://srdr.training.ahrq.gov
-2014-01-31 16:52:49,177 - root.http://www.infalliblekitty.com - INFO - Checking status of http://www.infalliblekitty.com
-2014-01-31 16:57:01,248 - root - INFO - Main program started
-2014-01-31 16:57:01,248 - root - INFO - Number of site monitors to build: 5
-2014-01-31 16:57:01,248 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 16:57:01,248 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was None last time it was checked
-2014-01-31 16:57:01,248 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:57:01,249 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 16:57:01,249 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was None last time it was checked
-2014-01-31 16:57:01,249 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:57:01,249 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 16:57:01,249 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was None last time it was checked
-2014-01-31 16:57:01,249 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:57:01,249 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 16:57:01,249 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was None last time it was checked
-2014-01-31 16:57:01,249 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:57:01,249 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 16:57:01,250 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was None last time it was checked
-2014-01-31 16:57:01,250 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 16:57:06,381 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 16:57:06,529 - root.http://sunfire34.eecs.tufts.edu - INFO - Checking status of http://sunfire34.eecs.tufts.edu
-2014-01-31 16:57:06,746 - root.http://srdr.ahrq.gov - INFO - Checking status of http://srdr.ahrq.gov
-2014-01-31 16:57:12,854 - root.http://srdr.training.ahrq.gov - INFO - Checking status of http://srdr.training.ahrq.gov
-2014-01-31 16:57:15,719 - root.http://www.infalliblekitty.com - INFO - Checking status of http://www.infalliblekitty.com
-2014-01-31 17:01:29,662 - root - INFO - Main program started
-2014-01-31 17:01:29,662 - root - INFO - Number of site monitors to build: 5
-2014-01-31 17:01:29,662 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
-2014-01-31 17:01:29,662 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was None last time it was checked
-2014-01-31 17:01:29,662 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 17:01:29,662 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
-2014-01-31 17:01:29,663 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was None last time it was checked
-2014-01-31 17:01:29,663 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 17:01:29,663 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
-2014-01-31 17:01:29,663 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was None last time it was checked
-2014-01-31 17:01:29,663 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 17:01:29,663 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
-2014-01-31 17:01:29,663 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was None last time it was checked
-2014-01-31 17:01:29,663 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
-2014-01-31 17:01:29,663 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
-2014-01-31 17:01:29,663 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was  last time it was checked
-2014-01-31 17:01:29,664 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu']
-2014-01-31 17:01:34,835 - root.http://abstrackr.cebm.brown.edu - INFO - Checking status of http://abstrackr.cebm.brown.edu
-2014-01-31 17:01:35,037 - root.http://sunfire34.eecs.tufts.edu - INFO - Checking status of http://sunfire34.eecs.tufts.edu
-2014-01-31 17:01:35,223 - root.http://srdr.ahrq.gov - INFO - Checking status of http://srdr.ahrq.gov
-2014-01-31 17:01:39,907 - root.http://srdr.training.ahrq.gov - INFO - Checking status of http://srdr.training.ahrq.gov
-2014-01-31 17:01:42,667 - root.http://www.infalliblekitty.com - INFO - Checking status of http://www.infalliblekitty.com
+2014-02-03 11:02:12,991 - root - INFO - Main program started
+2014-02-03 11:02:12,991 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:02:12,992 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 11:02:12,992 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was None last time it was checked
+2014-02-03 11:02:12,992 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:02:12,992 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 11:02:12,992 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was None last time it was checked
+2014-02-03 11:02:12,992 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:02:12,992 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 11:02:12,992 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was None last time it was checked
+2014-02-03 11:02:12,992 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:02:12,992 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 11:02:12,992 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was None last time it was checked
+2014-02-03 11:02:12,992 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:02:12,992 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
+2014-02-03 11:02:12,992 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was down last time it was checked
+2014-02-03 11:02:12,993 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu']
+2014-02-03 11:02:13,167 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:02:13,172 - root.abstrackr.cebm.brown.edu - INFO - abstrackr.cebm.brown.edu is down. Site status is 0
+2014-02-03 11:02:13,301 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:02:13,301 - root.sunfire34.eecs.tufts.edu - INFO - sunfire34.eecs.tufts.edu is down. Site status is 0
+2014-02-03 11:02:13,431 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:02:13,431 - root.srdr.ahrq.gov - INFO - srdr.ahrq.gov is down. Site status is 0
+2014-02-03 11:02:13,631 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:02:13,631 - root.srdr.training.ahrq.gov - INFO - srdr.training.ahrq.gov is down. Site status is 0
+2014-02-03 11:02:13,758 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:10:39,388 - root - INFO - Main program started
+2014-02-03 11:10:39,388 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:10:39,388 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 11:10:39,388 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was down last time it was checked
+2014-02-03 11:10:39,389 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:10:39,389 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 11:10:39,389 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was down last time it was checked
+2014-02-03 11:10:39,389 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:10:39,389 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 11:10:39,389 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was down last time it was checked
+2014-02-03 11:10:39,389 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:10:39,389 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 11:10:39,389 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was down last time it was checked
+2014-02-03 11:10:39,389 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:10:39,389 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
+2014-02-03 11:10:39,389 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was down last time it was checked
+2014-02-03 11:10:39,389 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu']
+2014-02-03 11:10:44,597 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:10:44,600 - root.abstrackr.cebm.brown.edu - INFO - [Errno 2] No such file or directory: 'abstrackr.cebm.brown.edu'
+2014-02-03 11:10:44,754 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:10:44,754 - root.sunfire34.eecs.tufts.edu - INFO - [Errno 2] No such file or directory: 'sunfire34.eecs.tufts.edu'
+2014-02-03 11:10:44,887 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:10:44,888 - root.srdr.ahrq.gov - INFO - [Errno 2] No such file or directory: 'srdr.ahrq.gov'
+2014-02-03 11:10:45,110 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:10:45,110 - root.srdr.training.ahrq.gov - INFO - [Errno 2] No such file or directory: 'srdr.training.ahrq.gov'
+2014-02-03 11:10:45,274 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:10:45,274 - root.www.infalliblekitty.com - INFO - [Errno 2] No such file or directory: 'www.infalliblekitty.com'
+2014-02-03 11:12:53,020 - root - INFO - Main program started
+2014-02-03 11:12:53,020 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:12:53,020 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 11:12:53,020 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was down last time it was checked
+2014-02-03 11:12:53,020 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:12:53,020 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 11:12:53,020 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was down last time it was checked
+2014-02-03 11:12:53,020 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:12:53,021 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 11:12:53,021 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was down last time it was checked
+2014-02-03 11:12:53,021 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:12:53,021 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 11:12:53,021 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was down last time it was checked
+2014-02-03 11:12:53,021 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:12:53,021 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
+2014-02-03 11:12:53,021 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was down last time it was checked
+2014-02-03 11:12:53,021 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu']
+2014-02-03 11:12:53,306 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:12:53,334 - root.abstrackr.cebm.brown.edu - INFO - abstrackr.cebm.brown.edu is up again. Site status is 200
+2014-02-03 11:12:53,335 - root.abstrackr.cebm.brown.edu - INFO - abstrackr.cebm.brown.edu came back up again. Sending emails
+2014-02-03 11:12:53,476 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:12:53,602 - root.sunfire34.eecs.tufts.edu - INFO - sunfire34.eecs.tufts.edu is up again. Site status is 200
+2014-02-03 11:12:53,602 - root.sunfire34.eecs.tufts.edu - INFO - sunfire34.eecs.tufts.edu came back up again. Sending emails
+2014-02-03 11:12:53,788 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:12:58,689 - root.srdr.ahrq.gov - INFO - srdr.ahrq.gov is up again. Site status is 200
+2014-02-03 11:12:58,689 - root.srdr.ahrq.gov - INFO - srdr.ahrq.gov came back up again. Sending emails
+2014-02-03 11:12:58,906 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:13:01,444 - root.srdr.training.ahrq.gov - INFO - srdr.training.ahrq.gov is up again. Site status is 200
+2014-02-03 11:13:01,444 - root.srdr.training.ahrq.gov - INFO - srdr.training.ahrq.gov came back up again. Sending emails
+2014-02-03 11:13:01,639 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:15:09,178 - root.www.infalliblekitty.com - INFO - [Errno socket error] [Errno 110] Connection timed out
+2014-02-03 11:16:43,321 - root - INFO - Main program started
+2014-02-03 11:16:43,321 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:16:43,322 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 11:16:43,322 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
+2014-02-03 11:16:43,322 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:16:43,322 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 11:16:43,322 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
+2014-02-03 11:16:43,322 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:16:43,322 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 11:16:43,322 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
+2014-02-03 11:16:43,323 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:16:43,323 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 11:16:43,323 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
+2014-02-03 11:16:43,323 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:16:43,323 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
+2014-02-03 11:16:43,323 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was down last time it was checked
+2014-02-03 11:16:43,323 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu']
+2014-02-03 11:16:48,513 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:16:48,723 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:16:48,932 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:16:54,557 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:16:57,351 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:21:36,768 - root - INFO - Main program started
+2014-02-03 11:21:36,768 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:21:36,768 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 11:21:36,768 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
+2014-02-03 11:21:36,768 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:21:36,768 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 11:21:36,769 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
+2014-02-03 11:21:36,769 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:21:36,769 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 11:21:36,769 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
+2014-02-03 11:21:36,769 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:21:36,769 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 11:21:36,769 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
+2014-02-03 11:21:36,769 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:21:36,769 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
+2014-02-03 11:21:36,769 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was down last time it was checked
+2014-02-03 11:21:36,770 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu']
+2014-02-03 11:21:41,843 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:21:41,857 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu is fine. Site status is 200
+2014-02-03 11:21:41,917 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:21:41,946 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu is fine. Site status is 200
+2014-02-03 11:21:42,010 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:21:44,206 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov is fine. Site status is 200
+2014-02-03 11:21:44,309 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:21:45,602 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov is fine. Site status is 200
+2014-02-03 11:21:45,663 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:23:53,017 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 11:23:53,018 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com is fine. Site status is 0
+2014-02-03 11:27:11,211 - root - INFO - Main program started
+2014-02-03 11:27:11,211 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:27:11,211 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 11:27:11,211 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
+2014-02-03 11:27:11,211 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:27:11,211 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 11:27:11,211 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
+2014-02-03 11:27:11,211 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:27:11,211 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 11:27:11,211 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
+2014-02-03 11:27:11,212 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:27:11,212 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 11:27:11,212 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
+2014-02-03 11:27:11,212 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 11:27:11,212 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
+2014-02-03 11:27:11,212 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was down last time it was checked
+2014-02-03 11:27:11,212 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu']
+2014-02-03 11:27:16,321 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:27:16,434 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:27:16,527 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:27:19,050 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:27:20,524 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:28:25,524 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 11:28:25,525 - root - INFO - Main program finished
+2014-02-03 11:28:28,139 - root - INFO - Main program started
+2014-02-03 11:28:28,139 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:28:33,208 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:28:33,375 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:28:33,550 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:28:35,501 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:28:36,886 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:28:37,976 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 11:28:37,976 - root - INFO - Main program finished
+2014-02-03 11:28:53,922 - root - INFO - Main program started
+2014-02-03 11:28:53,922 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:28:53,988 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:28:54,060 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:28:54,155 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:28:56,274 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:28:57,737 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:31:05,018 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 11:31:05,018 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com is down. Site status is 0
+2014-02-03 11:31:05,018 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com just went down. Sending emails
+2014-02-03 11:31:05,018 - root - INFO - Main program finished
+2014-02-03 11:32:20,833 - root - INFO - Main program started
+2014-02-03 11:32:20,833 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:32:45,239 - root - INFO - Main program started
+2014-02-03 11:32:45,239 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:32:45,382 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:32:45,550 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:32:45,747 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:32:48,481 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:32:49,946 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:34:57,339 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 11:34:57,339 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com is down. Site status is 0
+2014-02-03 11:34:57,339 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com just went down. Sending emails
+2014-02-03 11:34:57,339 - root - INFO - Main program finished
+2014-02-03 11:36:42,033 - root - INFO - Main program started
+2014-02-03 11:36:42,033 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:36:47,110 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:36:47,219 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:36:47,447 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:36:50,190 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:36:51,670 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:37:01,267 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 11:37:01,267 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com is down. Site status is 0
+2014-02-03 11:37:01,267 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com just went down. Sending emails
+2014-02-03 11:37:01,268 - root - INFO - Main program finished
+2014-02-03 11:37:17,199 - root - INFO - Main program started
+2014-02-03 11:37:17,200 - root - INFO - Number of site monitors to build: 5
+2014-02-03 11:37:17,265 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 11:37:17,421 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 11:37:17,581 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 11:37:20,597 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 11:37:22,121 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 11:39:29,339 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 11:39:29,339 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com is down. Site status is 0
+2014-02-03 11:39:29,339 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com just went down. Sending emails
+2014-02-03 11:39:29,340 - root - INFO - Main program finished
+2014-02-03 13:06:27,835 - root - INFO - Main program started
+2014-02-03 13:06:27,835 - root - INFO - Number of site monitors to build: 5
+2014-02-03 13:06:32,912 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 13:09:18,279 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 13:09:18,437 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 13:13:33,362 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 13:13:34,778 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 13:15:42,458 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 13:15:42,458 - root - INFO - Main program finished
+2014-02-03 13:59:20,561 - root - INFO - Main program started
+2014-02-03 14:00:15,550 - root - INFO - Main program started
+2014-02-03 14:01:26,549 - root - INFO - Main program started
+2014-02-03 14:01:26,549 - root - INFO - Number of site monitors to build: 5
+2014-02-03 14:01:31,620 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:01:31,794 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:01:31,910 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:01:34,360 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:01:35,861 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 14:03:43,097 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 14:03:43,098 - root - INFO - Main program finished
+2014-02-03 14:04:07,029 - root - INFO - Main program started
+2014-02-03 14:04:07,029 - root - INFO - Number of site monitors to build: 5
+2014-02-03 14:04:12,138 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:04:12,222 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:04:12,367 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:04:15,117 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:04:16,452 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 14:06:23,737 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 14:06:23,738 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com is down. Site status returned: 0
+2014-02-03 14:06:23,738 - root - INFO - Main program finished
+2014-02-03 14:08:33,875 - root - INFO - Main program started
+2014-02-03 14:08:33,875 - root - INFO - Number of site monitors to build: 5
+2014-02-03 14:08:38,949 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:09:43,265 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:09:43,518 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:09:46,172 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:09:47,632 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 14:11:54,938 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 14:11:54,938 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com is down. Site status returned: 0
+2014-02-03 14:11:54,938 - root - INFO - Main program finished
+2014-02-03 14:13:08,190 - root - INFO - Main program started
+2014-02-03 14:13:08,190 - root - INFO - Number of site monitors to build: 5
+2014-02-03 14:13:13,200 - root.abstrackr.cebm.brown.edu - INFO - http://www.google.com did not return any header status.
+2014-02-03 14:13:26,560 - root - INFO - Main program started
+2014-02-03 14:13:26,561 - root - INFO - Number of site monitors to build: 5
+2014-02-03 14:13:26,625 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:13:26,698 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:13:26,790 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:13:29,626 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:13:30,956 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 14:13:51,417 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 14:13:51,417 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com is down. Site status returned: 0
+2014-02-03 14:13:52,883 - root - INFO - Main program finished
+2014-02-03 14:14:15,476 - root - INFO - Main program started
+2014-02-03 14:14:15,476 - root - INFO - Number of site monitors to build: 5
+2014-02-03 14:14:15,476 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 14:14:15,476 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
+2014-02-03 14:14:15,476 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:14:15,476 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 14:14:15,477 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
+2014-02-03 14:14:15,477 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:14:15,477 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 14:14:15,477 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
+2014-02-03 14:14:15,477 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:14:15,477 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 14:14:15,477 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
+2014-02-03 14:14:15,477 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:14:15,477 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
+2014-02-03 14:14:15,477 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was up last time it was checked
+2014-02-03 14:14:15,477 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu', 'jens.jap@gmail.com']
+2014-02-03 14:14:15,543 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:14:15,615 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:14:16,034 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:14:18,988 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:14:20,378 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 14:14:27,661 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 14:14:27,661 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com is down. Site status returned: 0
+2014-02-03 14:14:29,875 - root.www.infalliblekitty.com - DEBUG - Email send tojens_jap@brown.edu, jens.jap@gmail.com
+2014-02-03 14:14:29,876 - root - INFO - Main program finished
+2014-02-03 14:14:44,523 - root - INFO - Main program started
+2014-02-03 14:14:44,523 - root - INFO - Number of site monitors to build: 5
+2014-02-03 14:14:44,523 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 14:14:44,523 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
+2014-02-03 14:14:44,523 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:14:44,524 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 14:14:44,524 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
+2014-02-03 14:14:44,524 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:14:44,524 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 14:14:44,524 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
+2014-02-03 14:14:44,524 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:14:44,524 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 14:14:44,524 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
+2014-02-03 14:14:44,525 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:14:44,525 - root.www.infalliblekitty.com - DEBUG - Found hostname www.infalliblekitty.com
+2014-02-03 14:14:44,525 - root.www.infalliblekitty.com - DEBUG - www.infalliblekitty.com was up last time it was checked
+2014-02-03 14:14:44,525 - root.www.infalliblekitty.com - DEBUG - Alert for www.infalliblekitty.com need to be sent to ['jens_jap@brown.edu', 'jens.jap@gmail.com']
+2014-02-03 14:14:44,590 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:14:44,698 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:14:44,834 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:14:47,587 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:14:48,978 - root.www.infalliblekitty.com - INFO - Checking status of www.infalliblekitty.com
+2014-02-03 14:16:56,378 - root.www.infalliblekitty.com - INFO - http://www.infalliblekitty.com did not return any header status.
+2014-02-03 14:16:56,379 - root.www.infalliblekitty.com - INFO - www.infalliblekitty.com is down. Site status returned: 0
+2014-02-03 14:16:58,265 - root.www.infalliblekitty.com - DEBUG - Email send tojens_jap@brown.edu, jens.jap@gmail.com
+2014-02-03 14:16:58,266 - root - INFO - Main program finished
+2014-02-03 14:19:16,370 - root - INFO - Main program started
+2014-02-03 14:19:16,370 - root - INFO - Number of site monitors to build: 4
+2014-02-03 14:19:16,370 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 14:19:16,371 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was down last time it was checked
+2014-02-03 14:19:16,371 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:19:16,371 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 14:19:16,371 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
+2014-02-03 14:19:16,371 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:19:16,371 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 14:19:16,371 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
+2014-02-03 14:19:16,371 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:19:16,372 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 14:19:16,372 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
+2014-02-03 14:19:16,372 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:19:21,443 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:19:21,458 - root.abstrackr.cebm.brown.edu - INFO - abstrackr.cebm.brown.edu is up again. Site status returned: 200
+2014-02-03 14:19:52,226 - root.abstrackr.cebm.brown.edu - DEBUG - Email not send: (454, '4.7.0 Cannot authenticate due to temporary system problem. Try again later. d7sm59217223qad.10 - gsmtp')
+2014-02-03 14:19:52,298 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:19:52,392 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:19:55,540 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:19:56,793 - root - INFO - Main program finished
+2014-02-03 14:20:28,194 - root - INFO - Main program started
+2014-02-03 14:20:28,194 - root - INFO - Number of site monitors to build: 4
+2014-02-03 14:20:28,194 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 14:20:28,194 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
+2014-02-03 14:20:28,194 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:20:28,195 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 14:20:28,195 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
+2014-02-03 14:20:28,195 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:20:28,195 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 14:20:28,195 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
+2014-02-03 14:20:28,195 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:20:28,195 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 14:20:28,195 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
+2014-02-03 14:20:28,195 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:20:28,315 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:20:28,393 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:20:28,565 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:20:31,630 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:20:32,903 - root - INFO - Main program finished
+2014-02-03 14:20:50,368 - root - INFO - Main program started
+2014-02-03 14:20:50,368 - root - INFO - Number of site monitors to build: 4
+2014-02-03 14:20:50,368 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 14:20:50,368 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
+2014-02-03 14:20:50,368 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:20:50,368 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 14:20:50,368 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was down last time it was checked
+2014-02-03 14:20:50,368 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:20:50,369 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 14:20:50,369 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
+2014-02-03 14:20:50,369 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:20:50,369 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 14:20:50,369 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
+2014-02-03 14:20:50,369 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:20:50,578 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:20:50,745 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:20:50,775 - root.sunfire34.eecs.tufts.edu - INFO - sunfire34.eecs.tufts.edu is up again. Site status returned: 200
+2014-02-03 14:20:52,884 - root.sunfire34.eecs.tufts.edu - DEBUG - Email send tojens_jap@brown.edu, byron_wallace@brown, jensjap@gmail.com
+2014-02-03 14:20:52,951 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:20:56,360 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:20:57,615 - root - INFO - Main program finished
+2014-02-03 14:23:24,369 - root - INFO - Main program started
+2014-02-03 14:23:24,369 - root - INFO - Number of site monitors to build: 4
+2014-02-03 14:23:24,369 - root.abstrackr.cebm.brown.edu - DEBUG - Found hostname abstrackr.cebm.brown.edu
+2014-02-03 14:23:24,369 - root.abstrackr.cebm.brown.edu - DEBUG - abstrackr.cebm.brown.edu was up last time it was checked
+2014-02-03 14:23:24,369 - root.abstrackr.cebm.brown.edu - DEBUG - Alert for abstrackr.cebm.brown.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:23:24,369 - root.sunfire34.eecs.tufts.edu - DEBUG - Found hostname sunfire34.eecs.tufts.edu
+2014-02-03 14:23:24,369 - root.sunfire34.eecs.tufts.edu - DEBUG - sunfire34.eecs.tufts.edu was up last time it was checked
+2014-02-03 14:23:24,370 - root.sunfire34.eecs.tufts.edu - DEBUG - Alert for sunfire34.eecs.tufts.edu need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:23:24,370 - root.srdr.ahrq.gov - DEBUG - Found hostname srdr.ahrq.gov
+2014-02-03 14:23:24,370 - root.srdr.ahrq.gov - DEBUG - srdr.ahrq.gov was up last time it was checked
+2014-02-03 14:23:24,370 - root.srdr.ahrq.gov - DEBUG - Alert for srdr.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:23:24,370 - root.srdr.training.ahrq.gov - DEBUG - Found hostname srdr.training.ahrq.gov
+2014-02-03 14:23:24,370 - root.srdr.training.ahrq.gov - DEBUG - srdr.training.ahrq.gov was up last time it was checked
+2014-02-03 14:23:24,370 - root.srdr.training.ahrq.gov - DEBUG - Alert for srdr.training.ahrq.gov need to be sent to ['jens_jap@brown.edu', 'byron_wallace@brown', 'jensjap@gmail.com']
+2014-02-03 14:23:24,435 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:24:45,601 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:24:45,731 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:24:48,194 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:24:49,567 - root - INFO - Main program finished
+2014-02-03 14:27:45,602 - root - INFO - Main program started
+2014-02-03 14:27:45,602 - root - INFO - Number of site monitors to build: 5
+2014-02-03 14:27:45,709 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:27:45,815 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:27:45,925 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:27:48,420 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:27:49,808 - root.www.cebm.brown.edu - INFO - Checking status of www.cebm.brown.edu
+2014-02-03 14:27:49,883 - root - INFO - Main program finished
+2014-02-03 14:28:32,798 - root - INFO - Main program started
+2014-02-03 14:28:32,798 - root - INFO - Number of site monitors to build: 5
+2014-02-03 14:28:32,918 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:28:33,012 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:28:33,123 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:28:35,280 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:28:36,653 - root.www.cebm.brown.edu - INFO - Checking status of www.cebm.brown.edu
+2014-02-03 14:28:36,714 - root - INFO - Main program finished
+2014-02-03 14:29:07,372 - root - INFO - Main program started
+2014-02-03 14:29:07,372 - root - INFO - Number of site monitors to build: 5
+2014-02-03 14:29:07,434 - root.abstrackr.cebm.brown.edu - INFO - Checking status of abstrackr.cebm.brown.edu
+2014-02-03 14:29:07,505 - root.sunfire34.eecs.tufts.edu - INFO - Checking status of sunfire34.eecs.tufts.edu
+2014-02-03 14:29:07,534 - root.sunfire34.eecs.tufts.edu - INFO - sunfire34.eecs.tufts.edu is up again. Site status returned: 200
+2014-02-03 14:29:09,755 - root.srdr.ahrq.gov - INFO - Checking status of srdr.ahrq.gov
+2014-02-03 14:29:11,646 - root.srdr.training.ahrq.gov - INFO - Checking status of srdr.training.ahrq.gov
+2014-02-03 14:29:12,930 - root.www.cebm.brown.edu - INFO - Checking status of www.cebm.brown.edu
+2014-02-03 14:29:12,993 - root.www.cebm.brown.edu - INFO - www.cebm.brown.edu is up again. Site status returned: 200
+2014-02-03 14:29:15,804 - root - INFO - Main program finished
