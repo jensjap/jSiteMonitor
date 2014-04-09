@@ -34,8 +34,7 @@ class monitor(object):
             self.logger.info("Unexpected error while accessing www.google.com: " + e)
             return
         if Gstatus != 200:
-            self.logger.info("Can't even hit www.google.com. Better luck next time. Returned with" +
-                             Gstatus)
+            self.logger.info("Can't even hit www.google.com. Better luck next time. Returned with " + Gstatus)
             return
 
         self.logger.info("Checking status of %s", self.hostname)
@@ -79,9 +78,9 @@ class monitor(object):
             server.login(username,password)
             server.sendmail(from_addr, to_addr, m+msg)
             server.quit()
-            self.logger.debug('Email send to' + ", ".join(to_addr))
+            self.logger.debug('Email sent to ' + ", ".join(to_addr))
         except Exception as e:
-            self.logger.debug('Email not send: ' + str(e))
+            self.logger.debug('Email not sent: ' + str(e))
 
 
 
@@ -98,6 +97,7 @@ def monitorFactory(config):
     smtp_info['from_addr'] = config.get('Email', 'from')
 
     sites_path = config.get('Lists', 'sites_path')
+    default_recipient = config.get('Email', 'default_recipient')
 
     with open(sites_path, 'rb') as f:
         for line in f.readlines():
@@ -115,15 +115,18 @@ def monitorFactory(config):
         try:
             prevStatus = config.get('Site status', hostname)
         except ConfigParser.NoOptionError as e:
-            updateConfig('./config.ini', 'Site status', hostname, 'up')
+            updateConfig('./config.ini', 'Site status', hostname)
+            prevStatus = None
         logger.debug("%s was %s last time it was checked" % (hostname, prevStatus))
 
         # Find the list of email recipients for this site url
         try:
             email_string = config.get('Site to email list mapping', hostname).strip().replace(" ","")
         except ConfigParser.NoOptionError as e:
-            updateConfig('./config.ini', 'Site to email list mapping', hostname, config.get('Email', 'default_recipient'))
-        lof_emails = email_string.split(',')
+            updateConfig('./config.ini', 'Site to email list mapping', hostname, default_recipient)
+            email_string = default_recipient
+        finally:
+            lof_emails = email_string.split(',')
         logger.debug("Alert for %s need to be sent to %s" % (hostname, lof_emails))
 
         # Instantiate monitor object and append to list of monitors
@@ -131,7 +134,7 @@ def monitorFactory(config):
 
     return lof_monitors
 
-def updateConfig(path, section, option, value):
+def updateConfig(path, section, option, value=None):
     configPath = './config.ini'
     config = ConfigParser.ConfigParser()
     config.read(configPath)
