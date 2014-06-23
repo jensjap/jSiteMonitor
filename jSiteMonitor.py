@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 import ConfigParser
 import os
 import logging
@@ -8,8 +10,8 @@ from urlparse import urlparse
 
 """
 Monitors a list of sites. The urls are listed in the file site.list and the list
-of email recipients to send updates to is found in the file email.list. Configuration
-is outlined in config.ini, which can be build dynamically via lib/jConfigMaker.py
+of email recipients to send updates to is found in the config.ini file. Configuration
+is outlined in config.ini.
 
 Adapted from: https://github.com/davetromp/SiteMonitor/blob/master/SiteMonitor.py
 """
@@ -49,6 +51,9 @@ class monitor(object):
             self.logger.info(msg)
             self.sendEmail(msg) # Notify recipients that site came back up!
             self.currStatus = 'up'
+        else:
+            msg = "Status of %s has not changed. Site status returned: %s" % (self.hostname, status)
+            self.logger.info(msg)
 
     def getStatus(self, url):
         """
@@ -78,9 +83,11 @@ class monitor(object):
             server.login(username,password)
             server.sendmail(from_addr, to_addr, m+msg)
             server.quit()
-            self.logger.debug('Email sent to ' + ", ".join(to_addr))
+            #self.logger.debug('Email sent to ' + ", ".join(to_addr))
+            self.logger.info('Email sent to ' + ", ".join(to_addr))
         except Exception as e:
-            self.logger.debug('Email not sent: ' + str(e))
+            #self.logger.debug('Email not sent: ' + str(e))
+            self.logger.info('Email not sent: ' + str(e))
 
 
 
